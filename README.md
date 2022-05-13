@@ -29,4 +29,4 @@ Estimated time: 1 hour
 
    \”I am pleased that these very important provisions have been passed through the Committee, and I thank the Committee Members for their hard work during yesterday’s mark-up,\” said Chairman Scott. \”As I mentioned in my opening remarks yesterday, the COVID-19 pandemic is unlike anything the world has ever seen. It has affected every American and we must do what it takes to get the spread under control. The passage of the Agriculture Committee’s provisions gets us one step closer to feeding the hungry, supplying COVID-19 vaccinations to our rural communities, seeking equitable solutions for Black farmers and other farmers of color, and supporting our food and ag sector supply chains. I look forward to seeing the final passage of the full bill on the House floor soon.\””
 
-	}
+ \}
